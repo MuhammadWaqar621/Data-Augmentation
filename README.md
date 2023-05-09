@@ -6,7 +6,7 @@ Pascal VOC (Visual Object Classes) is a widely used dataset format for object de
 To perform data augmentation on images in the Pascal VOC format, you can use libraries such as OpenCV, TensorFlow, or Keras. Here's an example using the popular library, OpenCV.
 
 #Usage<br>
-Just need to run the jupyter file
-Change the Input path
-Chnage the Output Path
-Number of Aug as much you require. 
+Just need to run the jupyter file<br>
+Change the Input path<br>
+Chnage the Output Path<br>
+Number of Aug as much you require. <br>
