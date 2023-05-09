@@ -10,3 +10,6 @@ Just need to run the jupyter file<br>
 Change the Input path<br>
 Chnage the Output Path<br>
 Number of Aug as much you require. <br>
+
+<video src="https://github.com/MuhammadWaqar621/Data-Augmentation/blob/main/Demo%20VIdeo.webm" controls="controls" style="max-width: 730px;">
+</video>
